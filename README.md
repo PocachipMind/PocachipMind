@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=How+vexingly+quick+daft+zebras+jump;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+
 <!--
 **PocachipMind/PocachipMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
