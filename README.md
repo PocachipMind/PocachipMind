@@ -24,8 +24,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/learner-sung/)
 
 
+<h1> 📜 Profile </h1>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseojeon9%2Fseojeon9.git&count_bg=%23454545&title_bg=%23D971FF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)
+[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://poca.tistory.com/)
 
 
 
