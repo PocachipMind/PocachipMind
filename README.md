@@ -3,6 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PocachipMind&layout=compact)
 
 # :book: Skills
+![image](https://github.com/user-attachments/assets/e936f635-2337-47ce-b364-d3426e1bf995)
 
 
 
