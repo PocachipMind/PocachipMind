@@ -10,7 +10,7 @@
             <h3>Main</h3>
           </td>
           <td>
-            <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+            ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
           </td>   
 
   </table>
