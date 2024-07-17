@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=Welcome%20To%20My%20Github!&animation=fadeIn&type=Waving&height=180&color=gradient)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=750&lines=👋Hello!;I'm+Enjoying+Developer%2C+Sunggyu+Lee!+%F0%9F%99%82)](https://www.linkedin.com/in/learner-sung/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=750&height=100&lines=👋Hello!;I'm+Enjoying+Developer%2C+Sunggyu+Lee!+%F0%9F%99%82)](https://www.linkedin.com/in/learner-sung/)
 
 <!--
 **PocachipMind/PocachipMind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
