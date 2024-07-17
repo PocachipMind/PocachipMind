@@ -5,15 +5,7 @@
 <h1 align="center">💻 Tech Stack</h1>
 <img src="https://github.com/user-attachments/assets/e936f635-2337-47ce-b364-d3426e1bf995" style="width:80%;">
 
-  <table>
-          <td align=center>
-            <h3>Main</h3>
-          </td>
-          <td>
-            ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-          </td>   
-
-  </table>
+### Main
 
 
 
