@@ -11,16 +11,16 @@
             <h3>  Main  </h3>
           </td>
           <td>
-            <a href="https://www.python.org">
+            <a href="https://www.python.org", target="_blank">
                <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
             </a>
-            <a href="https://pytorch.org">
+            <a href="https://pytorch.org", target="_blank">
                <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch Badge">
             </a>
-            <a href="https://www.cplusplus.com">
+            <a href="https://www.cplusplus.com", target="_blank">
                <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge">
             </a>
-            <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+            <a href="https://en.wikipedia.org/wiki/C_(programming_language)" , target="_blank">
                <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C Badge">
             </a>
           </td>   
