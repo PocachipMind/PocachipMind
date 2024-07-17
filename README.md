@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1&multiline=true&repeat=false&width=750&height=70&lines=👋Hello!+Welcome!;I'm+Enjoying+Developer%2C+Sunggyu+Lee!+%F0%9F%99%82)](https://www.linkedin.com/in/learner-sung/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PocachipMind&layout=compact)
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="center">📚 Tech Stack</h1>
 <img src="https://github.com/user-attachments/assets/e936f635-2337-47ce-b364-d3426e1bf995" style="width:80%;">
 
 
