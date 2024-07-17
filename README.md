@@ -6,7 +6,6 @@
 <img src="https://github.com/user-attachments/assets/b39c2270-c794-4f5f-b845-dcef33447b59" style="width:80%;">
 <br>
 <br>
-<br>
  <table>
           <td align="center">
             <h3>  Main  </h3>
@@ -18,9 +17,11 @@
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
           </td>   
   </table>
+<br>
+<h1> ✏️ Blog </h1>
+[![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://kyr-db.tistory.com/)
 
-
-
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 
