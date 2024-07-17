@@ -17,7 +17,6 @@
             <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
           </td>   
   </table>
-<br>
 <h1> ✏️ Blog </h1>
 
 [![Tistory](https://img.shields.io/badge/Tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)](https://poca.tistory.com/)
