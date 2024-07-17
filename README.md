@@ -5,7 +5,7 @@
 <h1 align="center">💻 Tech Stack</h1>
 <img src="https://github.com/user-attachments/assets/e936f635-2337-47ce-b364-d3426e1bf995" style="width:80%;">
 
-## Main : 
+### Main : 
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
