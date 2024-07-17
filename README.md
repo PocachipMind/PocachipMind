@@ -4,9 +4,9 @@
 
 <h1>💻 Tech Stack</h1>
 <img src="https://github.com/user-attachments/assets/b39c2270-c794-4f5f-b845-dcef33447b59" style="width:80%;">
-
 <br>
-
+<br>
+<br>
  <table>
           <td align="center">
             <h3>  Main  </h3>
