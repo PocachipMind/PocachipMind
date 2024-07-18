@@ -32,7 +32,7 @@
 <br>
 
 <h1> 📜 Profile </h1>
-
+( 추후 업데이트.. )
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://poca.tistory.com/)
 <br>
 
