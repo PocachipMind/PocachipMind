@@ -34,7 +34,7 @@
 <h1> 📜 Profile </h1>
 
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://gamy-number-363.notion.site/SungGyu-Lee-Enjoying-Developer-7153c1d3bb49481993343b1e3490cb0c)
-[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://gamy-number-363.notion.site/SungGyu-Lee-Enjoying-Developer-7153c1d3bb49481993343b1e3490cb0c)
+[![PDF](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://gamy-number-363.notion.site/SungGyu-Lee-Enjoying-Developer-7153c1d3bb49481993343b1e3490cb0c)
 <br>
 
 
