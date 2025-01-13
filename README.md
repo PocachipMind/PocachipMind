@@ -34,7 +34,7 @@
 <h1> 📜 Profile </h1>
 
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://gamy-number-363.notion.site/SungGyu-Lee-Enjoying-Developer-7153c1d3bb49481993343b1e3490cb0c)
-[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGZgJmQoDI/oZp5C0iL58J-6wL8tn2cCA/edit?utm_content=DAGZgJmQoDI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGb4u3rgBY/2tpFTuBSA1LmCeLV8h62PA/edit?utm_content=DAGb4u3rgBY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1NecOMrEOGVwsUlfAY-jXmwqmEDhyhUZ9/view?usp=sharing)
 
 <br>
