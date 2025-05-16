@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PocachipMind&layout=compact)
 <br>
 <h1>💻 Tech Stack</h1>
-<img src="https://github.com/user-attachments/assets/f6ef5db0-3701-4040-a9cd-018b30beca4f" style="width:80%;">
+<img src="https://github.com/user-attachments/assets/bf83c2d6-6650-4627-84bf-12824a43c02a" style="width:80%;">
 <!-- <img src="https://github.com/user-attachments/assets/c622454c-1a76-424a-8379-fdd0ffb523fe" style="width:80%;"> -->
 <br>
 <br>
